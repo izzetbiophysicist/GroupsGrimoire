@@ -23,7 +23,7 @@ https://github.com/izzetbiophysicist/Data_convex_hull
 Fetches segments of PDB structures matching a given PFAM domain
 https://github.com/izzetbiophysicist/DomainFetcher
 
-## Peptide Design Rosetta
+## HeliBO (Helical Binder Optimizer)
 Stochastic cyclic optimization of binding free energy of peptide ligands through iterative mutagenesis. Has special parameters for helical peptides, can also be used for other protein binders
 https://github.com/jsartori12/HeliBO
 
