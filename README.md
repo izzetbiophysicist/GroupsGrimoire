@@ -17,7 +17,7 @@ https://github.com/izzetbiophysicist/mol_data_prep
 
 
 ## Data Convex Hull
-Generates a convex hull around the given data point. Useful for domain applicability analysis
+Generates a convex hull around a set of data points. Useful for domain applicability analysis in Machine Learning
 https://github.com/izzetbiophysicist/Data_convex_hull
 
 
