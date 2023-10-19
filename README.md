@@ -37,9 +37,9 @@ Convert an AA sequence into physcicochemial descriptor (zscales or VHSE)
 https://github.com/riveros94/descriptor_converter
 
 ## Design functions
-An assortment of handy design functions
+An assortment of handy protein design functions
 https://github.com/izzetbiophysicist/protein_design_functions
 
 ## Useful gromacs inputs
-Some useful Gromacs stuff
+Some useful Gromacs stuff for Molecuar dynamics
 https://github.com/izzetbiophysicist/useful_gromacs_inputs
