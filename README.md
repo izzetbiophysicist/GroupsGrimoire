@@ -1,5 +1,5 @@
 # Group's Grimoire
-Our group's tools
+Our group's tools and gadgets for molecular modeling, protein engineering, virtual screening and machine learning
 
 ## ProtEngGA
 Runs a genetic algorithm for protein design given a reference structure. The population of initial sequences can also be provided, otherwise will use random. The objective function can be chosen, but the default one optimizes ΔGfold.
