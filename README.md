@@ -3,7 +3,7 @@
 
 Our group's tools, gadgets and sorceries for molecular modeling, protein engineering, virtual screening and machine learning
 
-## ProtEngGA
+## GAPO
 Runs a genetic algorithm for protein design given a reference structure. The population of initial sequences can also be provided, otherwise will use random. The objective function can be chosen, but the default one optimizes ΔGfold.
 https://github.com/izzetbiophysicist/prot_eng_GA
 
